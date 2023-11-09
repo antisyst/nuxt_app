@@ -1,10 +1,12 @@
-import { defineNuxtConfig } from 'nuxt/config'
 
-export default defineNuxtConfig({
+export default ({
   head: {
     link: [
       { rel: 'stylesheet', href: 'https://fonts.cdnfonts.com/css/gilroy-bold' },
     ],
+  },
+  generate: {
+    fallback: true, 
   },
   plugins: [
     '~/src/plugins/font-awesome', 
