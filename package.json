@@ -1,0 +1,34 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "latest",
+    "@nuxtjs/composition-api": "^0.33.1",
+    "@nuxtjs/fontawesome": "^1.1.2",
+    "nuxt": "^3.8.1",
+    "vue": "^3.3.8",
+    "vue-router": "^4.2.5"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.4.2",
+    "@fortawesome/free-brands-svg-icons": "^6.4.2",
+    "@fortawesome/free-solid-svg-icons": "^6.4.2",
+    "@fortawesome/vue-fontawesome": "^3.0.5",
+    "@vue/composition-api": "^1.7.2",
+    "nuxt-swiper": "^1.2.2",
+    "oh-vue-icons": "^1.0.0-rc3",
+    "sass": "^1.69.5",
+    "swiper": "^11.0.3",
+    "vue-client-only": "^2.1.0",
+    "vue-feather-icons": "^5.1.0",
+    "vue-slider-component": "^3.2.24"
+  }
+}
