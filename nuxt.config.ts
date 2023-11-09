@@ -5,6 +5,10 @@ export default ({
       { rel: 'stylesheet', href: 'https://fonts.cdnfonts.com/css/gilroy-bold' },
     ],
   },
+    error: {
+    statusCode: 404,
+    message: 'error.vue',
+  },
   generate: {
     fallback: true, 
   },
