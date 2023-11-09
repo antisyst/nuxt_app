@@ -8,6 +8,9 @@ export default {
   plugins: [
     '~/src/plugins/font-awesome', 
   ],
+  router: {
+    base: '/'
+  },
   css: [
     '@/src/styles/global.scss',
     '@fortawesome/fontawesome-svg-core/styles.css',
