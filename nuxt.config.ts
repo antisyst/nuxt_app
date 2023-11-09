@@ -9,6 +9,9 @@ export default ({
     statusCode: 404,
     message: 'error.vue',
   },
+  layouts: {
+    error: '@/src/components/error.vue',
+  },
   generate: {
     fallback: true, 
   },
