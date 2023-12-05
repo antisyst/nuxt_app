@@ -1,0 +1,754 @@
+[
+  {
+    "name": "iPhone 15 Pro Max 256 GB",
+    "category": "iPhone",
+    "price": 1300,
+    "images": [
+      "https://raw.githubusercontent.com/antisyst/nuxt_app/main/public/iphone-15-pro-finish-select-202309-6-7inch-bluetitanium.jpg",
+      "https://raw.githubusercontent.com/antisyst/nuxt_app/main/public/iphone-15-pro-finish-select-202309-6-7inch-bluetitanium_AV1_GEO_US.jpg",
+      "https://raw.githubusercontent.com/antisyst/nuxt_app/main/public/iphone-15-pro-finish-select-202309-6-7inch-bluetitanium_AV2.jpg",
+      "https://raw.githubusercontent.com/antisyst/nuxt_app/main/public/iphone-15-pro-finish-select-202309-6-7inch-bluetitanium_AV3.jpg"
+    ],
+    "code": "88293",
+    "color": "Blue",
+    "specs": [
+      "Battery capacity (mAh): 4422",
+      "Battery type: Non-removable Li-Ion",
+      "Fast charging 50% in 30 minutes",
+      "Magsafe wireless charger 15W",
+      "Qi magnetic fast wireless charging 7.5W",
+      "Operating system: iOS 17",
+      "Processor type (Chipset): Apple A17 Pro (3 nm)",
+      "Processor frequency (CPU): Hexa-core (2x + 4x)",
+      "Graphics processor (GPU): Apple GPU (6-core graphics)"
+    ]
+  },
+  {
+    "name": "iPhone 15 Pro 128 GB",
+    "category": "iPhone",
+    "price": 1100,
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-pro-storage-select-202309-6-1inch-naturaltitanium?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1692854440284",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-pro-finish-select-202309-6-1inch-naturaltitanium_AV1_GEO_US?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1692846362456",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-pro-finish-select-202309-6-1inch-naturaltitanium_AV2?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1692846363675",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-pro-finish-select-202309-6-1inch-naturaltitanium_AV3?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1693011636437"
+    ],
+    "code": "88285",
+    "color": "Natural Titanium",
+    "specs": [
+      "Battery capacity (mAh): 3274 ",
+      "Battery type: Non-removable Li-Ion",
+      "Fast charging 50% in 30 minutes",
+      "Magsafe wireless charger 15W",
+      "Qi magnetic fast wireless charging 7.5W",
+      "Operating system: iOS 17",
+      "Processor type (Chipset): Apple A17 Pro (3 nm)",
+      "Processor frequency (CPU): Hexa-core (2x + 4x)",
+      "Graphics processor (GPU): Apple GPU (6-core graphics)"
+    ]
+  },
+  {
+    "name": "iPhone 14 Plus 256 GB",
+    "category": "iPhone",
+    "price": 1050,
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-storage-select-202209-6-7inch-blue?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1660691793956",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-finish-select-202209-6-7inch-blue_AV1_GEO_US?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1661027872693",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-finish-select-202209-6-7inch-blue_AV2?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1661028265567",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/https://www.apple.com/newsroom/images/product/iphone/geo/Apple-iPhone-14-iPhone-14-Plus-hero-220907-geo_Full-Bleed-Image.jpg.xlarge_2x.jpg"
+    ],
+    "code": "80675",
+    "color": "Blue",
+    "specs": [
+      "Battery capacity (mAh): 4323 ",
+      "Battery type: Non-removable Li-Ion",
+      "Fast charging 50% in 30 minutes",
+      "Magsafe wireless charger 15W",
+      "Qi magnetic fast wireless charging 7.5W",
+      "Operating system: iOS 16",
+      "Processor type (Chipset):  Apple A15 Bionic (5 nm)",
+      "Processor frequency (CPU): Hexa-core (2x3.23 GHz Avalanche + 4x1.82 GHz Blizzard)",
+      "Graphics processor (GPU): Apple GPU (5-core graphics)"
+    ]
+  },
+  {
+    "name": "iPhone 15 256 GB",
+    "category": "iPhone",
+    "price": 1150,
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-finish-select-202309-6-1inch-green?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1692923780268",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-finish-select-202309-6-1inch-green_AV1_GEO_US?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1692810673742",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-finish-select-202309-6-1inch-green_AV2?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1692810678980",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-finish-select-202309-6-1inch_GEO_US?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1692925264213"
+    ],
+    "code": "88443",
+    "color": "Green",
+    "specs": [
+      "Battery capacity (mAh): 3349 ",
+      "Battery type: Non-removable Li-Ion",
+      "Fast charging 50% in 30 minutes",
+      "Magsafe wireless charger 15W",
+      "Qi magnetic fast wireless charging 7.5W",
+      "Operating system: iOS 16",
+      "Processor type (Chipset):  Apple A16 Bionic (4 nm)",
+      "Processor frequency (CPU): Hexa-core (2x3.46 GHz Everest + 4x2.02 GHz Sawtooth)",
+      "Graphics processor (GPU): Apple GPU (5-core graphics)"
+    ]
+  },
+  {
+    "name": "iPhone 13 512 GB",
+    "category": "iPhone",
+    "price": 1000,
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-finish-select-202207-starlight?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1693064001768",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-finish-select-202207-starlight_AV1_GEO_US?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1693064001747",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-finish-select-202207-starlight_AV2?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1693064003841",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-finish-unselect-gallery-1-202207_GEO_US?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1654894184756"
+    ],
+    "code": "44260",
+    "color": "Starlight",
+    "specs": [
+      "Battery capacity (mAh): 3240 ",
+      "Battery type: Non-removable Li-Ion",
+      "Fast charging 50% in 30 minutes",
+      "Magsafe wireless charger 15W",
+      "Qi magnetic fast wireless charging 7.5W",
+      "Operating system: iOS 15",
+      "Processor type (Chipset): Apple A15 Bionic (5 nm)",
+      "Processor frequency (CPU): Hexa-core (2x3.22 GHz Avalanche + 4xX.X GHz Blizzard)",
+      "Graphics processor (GPU): Apple GPU (4-core graphics)"
+    ]
+  },
+  {
+    "name": "iPhone SE 128 GB",
+    "category": "iPhone",
+    "price": 640,
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-se-finish-select-202207-product-red?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1655316263304",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-se-finish-select-202207-product-red_AV1?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1655316262622",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-se-finish-select-202207-product-red_AV2?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1655316265239",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-finish-unselect-gallery-1-202207_GEO_US?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1654894184756"
+    ],
+    "code": "56360",
+    "color": "Red",
+    "specs": [
+      "Battery capacity (mAh): 1624  ",
+      "Battery type: Non-removable Li-Ion",
+      "Fast charging 50% in 30 minutes",
+      "Magsafe wireless charger 15W",
+      "Qi magnetic fast wireless charging 7.5W",
+      "Operating system: iOS 16",
+      "Processor type (Chipset): Apple A15 Bionic (5 nm)",
+      "Processor frequency (CPU): Hexa-core (2x3.22 GHz Avalanche + 4xX.X GHz Blizzard)",
+      "Graphics processor (GPU): Apple GPU (4-core graphics)"
+    ]
+  },
+  {
+    "name": "iPad Pro 12.9 256 GB",
+    "category": "iPad",
+    "price": 1400,
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-finish-select-202212-12-9inch-space-gray?wid=5120&hei=2880&fmt=p-jpg&qlt=95&.v=1667595007854",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-finish-select-202212-12-9inch-space-gray_AV1?wid=5120&hei=2880&fmt=p-jpg&qlt=95&.v=1667595008716",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-finish-select-202212-12-9inch-space-gray_AV2?wid=5120&hei=2880&fmt=p-jpg&qlt=95&.v=1667595010734",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-finish-unselect-gallery-1-202212?wid=5120&hei=2880&fmt=jpeg&qlt=90&.v=1667594391268"
+    ],
+    "code": "81711",
+    "color": "Space Gray",
+    "specs": [
+      "Battery capacity (mAh): 10758  ",
+      "Battery type: Non-removable Li-Po",
+      "Fast charging 50% in 30 minutes",
+      "Magsafe wireless charger 18W",
+      "Qi magnetic fast wireless charging 7.5W",
+      "Processor type (Chipset): Apple M2",
+      "Processor frequency (CPU): Octa-core",
+      "Graphics processor (GPU): Apple GPU (10-core graphics)"
+    ]
+  },
+  {
+    "name": "iPad Pro 12.9 1 TB",
+    "category": "iPad",
+    "price": 2100,
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-finish-select-202212-12-9inch-silver?wid=5120&hei=2880&fmt=p-jpg&qlt=95&.v=1667595007333",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-finish-select-202212-12-9inch-silver_AV1?wid=5120&hei=2880&fmt=p-jpg&qlt=95&.v=1667595003455",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-finish-select-202212-12-9inch-silver_AV2?wid=5120&hei=2880&fmt=p-jpg&qlt=95&.v=1667595009332",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-finish-unselect-gallery-1-202212?wid=5120&hei=2880&fmt=jpeg&qlt=90&.v=1667594391268"
+    ],
+    "code": "85218",
+    "color": "Silver",
+    "specs": [
+      "Battery capacity (mAh): 10758  ",
+      "Battery type: Non-removable Li-Po",
+      "Fast charging 50% in 30 minutes",
+      "Magsafe wireless charger 18W",
+      "Qi magnetic fast wireless charging 7.5W",
+      "Processor type (Chipset): Apple M2",
+      "Processor frequency (CPU): Octa-core",
+      "Graphics processor (GPU): Apple GPU (10-core graphics)"
+    ]
+  },
+  {
+    "name": "iPad Pro 11.0 128 GB",
+    "category": "iPad",
+    "price": 900,
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-finish-select-202212-11inch-space-gray?wid=5120&hei=2880&fmt=p-jpg&qlt=95&.v=1667594751230",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-finish-select-202212-11inch-space-gray_AV1?wid=5120&hei=2880&fmt=p-jpg&qlt=95&.v=1667594751544",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-finish-select-202212-11inch-space-gray_AV2?wid=5120&hei=2880&fmt=p-jpg&qlt=95&.v=1667594753728",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-finish-unselect-gallery-1-202212?wid=5120&hei=2880&fmt=jpeg&qlt=90&.v=1667594391268"
+    ],
+    "code": "70106",
+    "color": "Space Gray",
+    "specs": [
+      "Battery capacity (mAh): 10758  ",
+      "Battery type: Non-removable Li-Po",
+      "Fast charging 50% in 30 minutes",
+      "Magsafe wireless charger 18W",
+      "Qi magnetic fast wireless charging 7.5W",
+      "Processor type (Chipset): Apple M2",
+      "Processor frequency (CPU): Octa-core",
+      "Graphics processor (GPU): Apple GPU (10-core graphics)"
+    ]
+  },
+  {
+    "name": "iPad Pro 11.0 2 TB",
+    "category": "iPad",
+    "price": 2100,
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-finish-select-202212-11inch-silver?wid=5120&hei=2880&fmt=jpeg&qlt=90&.v=1667594750039",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-finish-select-202212-11inch-silver_AV1?wid=5120&hei=2880&fmt=jpeg&qlt=90&.v=1669998586339",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-finish-select-202212-11inch-silver_AV2?wid=5120&hei=2880&fmt=jpeg&qlt=90&.v=1667594752619",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-finish-unselect-gallery-1-202212?wid=5120&hei=2880&fmt=jpeg&qlt=90&.v=1667594391268"
+    ],
+    "code": "70106",
+    "color": "Space Gray",
+    "specs": [
+      "Battery capacity (mAh): 10758  ",
+      "Battery type: Non-removable Li-Po",
+      "Fast charging 50% in 30 minutes",
+      "Magsafe wireless charger 18W",
+      "Qi magnetic fast wireless charging 7.5W",
+      "Processor type (Chipset): Apple M2",
+      "Processor frequency (CPU): Octa-core",
+      "Graphics processor (GPU): Apple GPU (10-core graphics)"
+    ]
+  },
+  {
+    "name": "iPad Air 10.9 256 GB",
+    "category": "iPad",
+    "price": 900,
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-air-finish-select-gallery-202211-blue?wid=5120&hei=2880&fmt=p-jpg&qlt=95&.v=1666991953754",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-air-finish-select-gallery-202211-blue_AV1?wid=5120&hei=2880&fmt=p-jpg&qlt=95&.v=1666991955255",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-air-finish-select-gallery-202211-blue_AV2?wid=5120&hei=2880&fmt=p-jpg&qlt=95&.v=1666991958214",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-air-finish-unselect-gallery-1-202207?wid=5120&hei=2880&fmt=p-jpg&qlt=95&.v=1654902977555"
+    ],
+    "code": "45266",
+    "color": "Blue",
+    "specs": [
+      "Battery capacity (mAh):  28.6 Wh",
+      "Battery type:Non-removable Li-Ion",
+      "Fast charging 50% in 30 minutes",
+      "Magsafe wireless charger 18W",
+      "Qi magnetic fast wireless charging 7.5W",
+      "Operating system: iPadOS 15.4",
+      "Processor type (Chipset): Apple M1",
+      "Processor frequency (CPU): Octa-core",
+      "Screen type: Liquid Retina IPS LCD, 500 nits (type)"
+    ]
+  },
+  {
+    "name": "iPad Air 10.9 64 GB",
+    "category": "iPad",
+    "price": 670,
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-air-storage-select-202207-pink?wid=5120&hei=2880&fmt=p-jpg&qlt=95&.v=1654903002863",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-air-finish-select-gallery-202211-pink_AV1?wid=5120&hei=2880&fmt=p-jpg&qlt=95&.v=1666991955167",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-air-finish-select-gallery-202211-pink_AV2?wid=5120&hei=2880&fmt=p-jpg&qlt=95&.v=1666991958434",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-air-finish-unselect-gallery-1-202207?wid=5120&hei=2880&fmt=p-jpg&qlt=95&.v=1654902977555"
+    ],
+    "code": "48928",
+    "color": "Pink",
+    "specs": [
+      "Battery capacity (mAh):  28.6 Wh",
+      "Battery type:Non-removable Li-Ion",
+      "Fast charging 50% in 30 minutes",
+      "Magsafe wireless charger 18W",
+      "Qi magnetic fast wireless charging 7.5W",
+      "Operating system: iPadOS 15.4",
+      "Processor type (Chipset): Apple M1",
+      "Processor frequency (CPU): Octa-core",
+      "Screen type: Liquid Retina IPS LCD, 500 nits (type)"
+    ]
+  },
+  {
+    "name": "iPad Mini 8.3 256 GB",
+    "category": "iPad",
+    "price": 720,
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-mini-finish-select-gallery-202211-purple?wid=5120&hei=2880&fmt=p-jpg&qlt=95&.v=1670950640877",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-mini-finish-select-gallery-202211-purple_AV1?wid=5120&hei=2880&fmt=p-jpg&qlt=95&.v=1670950650838",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-mini-finish-select-gallery-202211-purple_AV2?wid=5120&hei=2880&fmt=p-jpg&qlt=95&.v=1666895796790",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-mini-finish-unselect-gallery-1-202207?wid=5120&hei=2880&fmt=p-jpg&qlt=95&.v=1654903896391"
+    ],
+    "code": "82349",
+    "color": "Purple",
+    "specs": [
+      "Battery capacity (mAh):  up to 10 hours (in multimedia mode)",
+      "Battery type:Non-removable Li-Ion",
+      "Fast charging 50% in 30 minutes",
+      "Magsafe wireless charger 18W",
+      "Qi magnetic fast wireless charging 7.5W",
+      "Operating system: iPadOS 15",
+      "Processor type (Chipset): Apple A15 Bionic (5 nm)",
+      "Processor frequency (CPU): Hexa-core (2x2.93 GHz + 4xX.X GHz)",
+      "Graphics processor (GPU): Apple GPU (5-core graphics)"
+    ]
+  },
+  {
+    "name": "iPad Mini 8.3 64 GB",
+    "category": "iPad",
+    "price": 720,
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-mini-storage-select-202207-starlight?wid=5120&hei=2880&fmt=p-jpg&qlt=95&.v=1670950636137",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-mini-finish-select-gallery-202211-starlight_AV1?wid=5120&hei=2880&fmt=p-jpg&qlt=95&.v=1670950645375",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-mini-finish-select-gallery-202211-starlight_AV2?wid=5120&hei=2880&fmt=p-jpg&qlt=95&.v=1666895796705",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-mini-finish-unselect-gallery-1-202207?wid=5120&hei=2880&fmt=p-jpg&qlt=95&.v=1654903896391"
+    ],
+    "code": "88137",
+    "color": "Starlight",
+    "specs": [
+      "Battery capacity (mAh):  up to 10 hours (in multimedia mode)",
+      "Battery type:Non-removable Li-Ion",
+      "Fast charging 50% in 30 minutes",
+      "Magsafe wireless charger 18W",
+      "Qi magnetic fast wireless charging 7.5W",
+      "Operating system: iPadOS 15",
+      "Processor type (Chipset): Apple A15 Bionic (5 nm)",
+      "Processor frequency (CPU): Hexa-core (2x2.93 GHz + 4xX.X GHz)",
+      "Graphics processor (GPU): Apple GPU (5-core graphics)"
+    ]
+  },
+  {
+    "name": "MacBook Pro 16.0 2TB",
+    "category": "Mac",
+    "price": 4300,
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp16-spaceblack-gallery1-202310?wid=4000&hei=3074&fmt=jpeg&qlt=90&.v=1697311166472",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp16-spaceblack-gallery2-202310?wid=4000&hei=3074&fmt=jpeg&qlt=90&.v=1698156921319",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp16-spaceblack-gallery3-202310?wid=4000&hei=3074&fmt=jpeg&qlt=90&.v=1697311164734",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp16-spaceblack-gallery6-202310?wid=4000&hei=3074&fmt=jpeg&qlt=90&.v=1697311170821"
+    ],
+    "code": "14897",
+    "color": "Space Black",
+    "specs": [
+      "Apple M3 Pro chip with 12‑core CPU, 18‑core GPU, 16‑core Neural Engine",
+      "36GB unified memory",
+      "2TB SSD storage",
+      "140W USB-C Power Adapter",
+      "16-inch Liquid Retina XDR display",
+      "Operating system: M3 Max",
+      "Three Thunderbolt 4 ports, HDMI port, SDXC card slot",
+      "headphone jack, MagSafe 3 port",
+      "Backlit Magic Keyboard with Touch ID - US English"
+    ]
+  },
+  {
+    "name": "MacBook Pro 14.0 1TB",
+    "category": "Mac",
+    "price": 2540,
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp14-silver-gallery1-202310?wid=4000&hei=3074&fmt=jpeg&qlt=90&.v=1697311138987",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp14-silver-gallery2-202310?wid=4000&hei=3074&fmt=jpeg&qlt=90&.v=1698258897951",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp14-silver-gallery3-202310?wid=4000&hei=3074&fmt=jpeg&qlt=90&.v=1697311130233",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp14-silver-gallery6-202310?wid=4000&hei=3074&fmt=jpeg&qlt=90&.v=1697311146284"
+    ],
+    "code": "181607",
+    "color": "Silver",
+    "specs": [
+      "Apple M3 chip with 8-core CPU, 10-core GPU, 16-core Neural Engine",
+      "16GB unified memory",
+      "1TB SSD storage",
+      "96W USB-C Power Adapter",
+      "14-inch Liquid Retina XDR display",
+      "Operating system: M3 Max",
+      "Two Thunderbolt / USB 4 ports, HDMI port",
+      "SDXC card slot, headphone jack, MagSafe 3 port",
+      "Backlit Magic Keyboard with Touch ID - US English"
+    ]
+  },
+  {
+    "name": "MacBook Pro 16.0 4TB",
+    "category": "Mac",
+    "price": 5990,
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp16-silver-gallery1-202310?wid=4000&hei=3074&fmt=jpeg&qlt=90&.v=1697311161318",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp16-silver-gallery2-202310?wid=4000&hei=3074&fmt=jpeg&qlt=90&.v=1698156973741",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp16-silver-gallery6-202310?wid=4000&hei=3074&fmt=jpeg&qlt=90&.v=1697311166106",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp16-silver-gallery3-202310?wid=4000&hei=3074&fmt=jpeg&qlt=90&.v=1697311159357"
+    ],
+    "code": "181607",
+    "color": "Silver",
+    "specs": [
+      "Apple M3 Max chip with 16‑core CPU, 40‑core GPU, 16‑core Neural Engine",
+      "64GB unified memory",
+      "4TB SSD storage",
+      "140W USB-C Power Adapter",
+      "16-inch Liquid Retina XDR display",
+      "Operating system: M3 Max",
+      "Three Thunderbolt 4 ports, HDMI port, SDXC card slot",
+      "headphone jack, MagSafe 3 port",
+      "Backlit Magic Keyboard with Touch ID - US English"
+    ]
+  },
+  {
+    "name": "MacBook Pro 14.0 8TB",
+    "category": "Mac",
+    "price": 6130,
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp14-m3-max-pro-spaceblack-gallery1-202310?wid=4000&hei=3074&fmt=jpeg&qlt=90&.v=1697311154860",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp14-m3-max-pro-spaceblack-gallery2-202310?wid=4000&hei=3074&fmt=jpeg&qlt=90&.v=1698259119285",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp14-m3-max-pro-spaceblack-gallery3-202310?wid=4000&hei=3074&fmt=jpeg&qlt=90&.v=1697311156105",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp14-m3-max-pro-spaceblack-gallery6-202310?wid=4000&hei=3074&fmt=jpeg&qlt=90&.v=1697311160755"
+    ],
+    "code": "201107",
+    "color": "Space Black",
+    "specs": [
+      "Apple M3 Max chip with 14‑core CPU, 30‑core GPU, 16‑core Neural Engine",
+      "96GB unified memory",
+      "8TB SSD storage",
+      "96W USB-C Power Adapter",
+      "14-inch Liquid Retina XDR display",
+      "Operating system: M3 Max",
+      "Three Thunderbolt 4 ports, HDMI port, SDXC card slot",
+      "headphone jack, MagSafe 3 port",
+      "Backlit Magic Keyboard with Touch ID - US English"
+    ]
+  },
+  {
+    "name": "MacBook Air 15.3 512GB",
+    "category": "Mac",
+    "price": 2170,
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba15-midnight-gallery1-202306?wid=4000&hei=3074&fmt=jpeg&qlt=90&.v=1684193994222",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba15-midnight-gallery2-202306?wid=4000&hei=3074&fmt=jpeg&qlt=90&.v=1684548308536",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba15-midnight-gallery3-202306?wid=4000&hei=3074&fmt=jpeg&qlt=90&.v=1684193994689",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba15-midnight-gallery7-202306?wid=4000&hei=3074&fmt=jpeg&qlt=90&.v=1684193994740"
+    ],
+    "code": "156422",
+    "color": "Midnight",
+    "specs": [
+      "Apple M2 chip with 8-core CPU, 10-core GPU, 16-core Neural Engine",
+      "24GB unified memory",
+      "512GB SSD storage",
+      "1080p FaceTime HD camera",
+      "15.3-inch Liquid Retina display with True Tone",
+      "Operating system: M2 PRO",
+      "MagSafe 3 charging port, Two Thunderbolt / USB 4 ports",
+      "35W Dual USB-C Port Compact Power Adapter",
+      "Backlit Magic Keyboard with Touch ID - US English"
+    ]
+  },
+  {
+    "name": "MacBook Air 15.3 2TB",
+    "category": "Mac",
+    "price": 2170,
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba15-spacegray-gallery1-202306?wid=4000&hei=3074&fmt=jpeg&qlt=90&.v=1684199729410",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba15-spacegray-gallery2-202306?wid=4000&hei=3074&fmt=jpeg&qlt=90&.v=1684548308536",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba15-spacegray-gallery3-202306?wid=4000&hei=3074&fmt=jpeg&qlt=90&.v=1684199730414",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba15-spacegray-gallery4-202306?wid=4000&hei=3074&fmt=jpeg&qlt=90&.v=1684199722845"
+    ],
+    "code": "561562",
+    "color": "Space Gray",
+    "specs": [
+      "Apple M2 chip with 8-core CPU, 10-core GPU, 16-core Neural Engine",
+      "16GB unified memory",
+      "2TB SSD storage",
+      "1080p FaceTime HD camera",
+      "15.3-inch Liquid Retina display with True Tone",
+      "Operating system: M2",
+      "MagSafe 3 charging port, Two Thunderbolt / USB 4 ports",
+      "70W Dual USB-C Port Compact Power Adapter",
+      "Backlit Magic Keyboard with Touch ID - US English"
+    ]
+  },
+  {
+    "name": "MacBook Air 13.6 2TB",
+    "category": "Mac",
+    "price": 2370,
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbook-air-starlight-gallery1-20220606?wid=4000&hei=3072&fmt=jpeg&qlt=90&.v=1653668116624",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbook-air-starlight-gallery2-20220606_GEO_US?wid=4000&hei=3072&fmt=jpeg&qlt=90&.v=1653663955420",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbook-air-starlight-gallery3-20220606?wid=4000&hei=3072&fmt=jpeg&qlt=90&.v=1653668098089",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbook-air-starlight-gallery6-20220606?wid=4000&hei=3072&fmt=jpeg&qlt=90&.v=1653668115597"
+    ],
+    "code": "742311",
+    "color": "Starlight",
+    "specs": [
+      "Apple M2 chip with 8-core CPU, 10-core GPU, 16-core Neural Engine",
+      "16GB unified memory",
+      "1TB SSD storage",
+      "1080p FaceTime HD camera",
+      "13.6-inch Liquid Retina display with True Tone",
+      "Operating system: M2",
+      "MagSafe 3 charging port, Two Thunderbolt / USB 4 ports",
+      "70W Dual USB-C Port Compact Power Adapter",
+      "Backlit Magic Keyboard with Touch ID - US English"
+    ]
+  },
+  {
+    "name": "MacBook Air 13.0 2TB",
+    "category": "Mac",
+    "price": 1430,
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbook-air-gallery3-20201110?wid=4000&hei=3072&fmt=jpeg&qlt=90&.v=1664502036215",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbook-air-gallery1-20201110_GEO_US?wid=4000&hei=3072&fmt=jpeg&qlt=90&.v=1603911866000",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbook-air-gallery4-20201110?wid=4000&hei=3072&fmt=jpeg&qlt=90&.v=1603399116000",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbook-air-gallery2-20201110?wid=4000&hei=3072&fmt=jpeg&qlt=90&.v=1603399116000"
+    ],
+    "code": "347881",
+    "color": "Space Gray",
+    "specs": [
+      "Apple M1 chip with 8‑core CPU, 7‑core GPU, 16‑core Neural Engine",
+      "16GB unified memory",
+      "256GB SSD storage",
+      "1080p FaceTime HD camera",
+      "13.0-inch Liquid Retina display with True Tone",
+      "Operating system: M1",
+      "MagSafe 3 charging port, Two Thunderbolt / USB 4 ports",
+      "70W Dual USB-C Port Compact Power Adapter",
+      "Backlit Magic Keyboard with Touch ID - US English"
+    ]
+  },
+  {
+    "name": "Apple Watch Series 9 45mm ",
+    "category": "Watch",
+    "price": 800,
+    "images": [
+      "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MT3Q3ref_VW_34FR+watch-case-45-stainless-graphite-s9_VW_34FR+watch-face-45-stainless-graphite-s9_VW_34FR?wid=5120&hei=3280&bgc=fafafa&trim=1&fmt=p-jpg&qlt=80&.v=VGhSS0g2WFFuQ1NDd2xwd1MrR3QzWnVsTWtoL3UvVVIySFozL2tLNWx3ckFoNzk5U01YWnJCcXdYeHMxNnpKTExwMFNDMm85YkM4MUFGTTBwclVsNGQxT0k1TlZXdVpCWFVDOFZ3Q25taHhIM1BUbTB2bTZUem94bTJtVHFsa3o5dlExZ3ZSVHZLallHbDUwbXFKcEg3eWo4YmE0SG5qYzd0OW5UYnpudkJxQ1RlL3AxRzV5SVRWdEVjOUNzaUZOclRNSDE2TkNRbnBpQlJ6dXd3WUMxWWZWajFjNjJSVEV4TEd5NlY0MFp4RT0",
+      "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MT3Q3ref_VW_PF+watch-case-45-stainless-graphite-s9_VW_PF+watch-face-45-stainless-graphite-s9_VW_PF?wid=5120&hei=3280&bgc=fafafa&trim=1&fmt=p-jpg&qlt=80&.v=ZjVzdVQzaGJlY2JTUVJXbWVBYytKSERnQk5jTGYyaG5yUHIrRmRhcm5GcGREZGs3YnR6Y3p3bE9FSWlvZFFMMnVEN1dwU0QvcXNQenJxOEN1SHZQNXNraDAzeEVXdWtnMXFad015bVA5K2Z3L1lLWmNXZElPNWhyNW9ub3IrdWJWRDJPaVNrelh5ZURrcjMyTENocUhKUDhoaDQvQk1qdG9oYWwxVDBSWE5ueFBYN1QxYzVKQXZvbXpRaU9oa2xkZHZkazlhSGFRM1ZuNElFd082NEFkSlVSRk1IY205VTVKa2JNeXMwalZBVT0",
+      "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MT3Q3ref?wid=5120&hei=3280&bgc=fafafa&trim=1&fmt=p-jpg&qlt=80&.v=TmU0RlpXZE1lSFI5ZGVBU3Q2TkVuYnlqOGJhNEhuamM3dDluVGJ6bnZCcUNUZS9wMUc1eUlUVnRFYzlDc2lGTnJUTUgxNk5DUW5waUJSenV3d1lDMWVvTVJVc08wRnd4d1NTcUYwbTI4K289",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/s9-case-unselect-gallery-1-202309?wid=5120&hei=3280&fmt=p-jpg&qlt=80&.v=1693525062134"
+    ],
+    "code": "347881",
+    "color": "Storm Blue",
+    "specs": [
+      "Apple Watch Series 9 GPS + Cellular",
+      "45mm Graphite Stainless Steel Case with Storm Blue Sport Band",
+      "Always-On Retina display up to 2000 nits",
+      "Faster on-device Siri with health data access",
+      "High and low heart rate notifications",
+      "Irregular rhythm notifications",
+      "Cycle Tracking with retrospective ovulation estimates",
+      "International emergency calling",
+      "Fall Detection and Crash Detection"
+    ]
+  },
+  {
+    "name": "Apple Watch Ultra 2 49mm",
+    "category": "Watch",
+    "price": 860,
+    "images": [
+      "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MT5T3ref_VW_34FR+watch-49-titanium-ultra2_VW_34FR+watch-face-49-alpine-ultra2_VW_34FR?wid=5120&hei=3280&bgc=fafafa&trim=1&fmt=p-jpg&qlt=80&.v=T3paZEFPUjVrU0VBR2F6MFBQSlZEQkZPYUtzeTRQVVJ5RG0wcnpadi96L1VYSXRUN1VQK3Nhb1hTK1VFYms2a0IzMDBvaSthcUJDc2lUMklaVFdPN2M3VlVnN2o1MzlNNzJ6V2lBNm12Z3VmY0EzcE04TzlWK1ZjdzFEemN3Y0N3SHBtSkFCVG00emNCNnZZdmx1anRJNGlHOFl6S0RBZW5kOVRmcVQwcUxWS1VLU1NaeUN4Y0oyZ1lKUEFiV3dqekx6L21RZ2F1Tm5ZWmdlMjhIN2tFUT09",
+      "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MT5T3ref_VW_PF+watch-49-titanium-ultra2_VW_PF+watch-face-49-alpine-ultra2_VW_PF?wid=5120&hei=3280&bgc=fafafa&trim=1&fmt=p-jpg&qlt=80&.v=OWFNa2RXWnlTcitzNjNRQkFCQnFiRXpxK205ZmNxblRBQ1ZWYUZSQXUxWE1VTXpndzUraW9tVnlvclF1eU1hT0xydUFJeS9EV0xwOEhOaUJaa2c2d21oQUhFZEY2OTJDK05SRFZWOWoyZmdSN2dFcHJLS3B6QzVUY2V3NEZZampYVVFWSzhKVFNmVjh2Um01S1FhVEVhaTIrN0cvbXhYblF1c2l5cUlBNU5PNDZOWHdhc3B5U2lGbzBUOTBkemxIUURmam1WUXkrbEhBSFh5cFV5eHZZQT09",
+      "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MT5T3ref?wid=5120&hei=3280&bgc=fafafa&trim=1&fmt=p-jpg&qlt=80&.v=N2RnSUIrMzAxcFltVVJVaHNFa1hsYnlqOGJhNEhuamM3dDluVGJ6bnZCcUNUZS9wMUc1eUlUVnRFYzlDc2lGTnJUTUgxNk5DUW5waUJSenV3d1lDMVJDc1RDL1hMMFlkRzlyQjgzSWVIbXM9",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ultra-band-unselect-gallery-1-202309?wid=5120&hei=3280&fmt=p-jpg&qlt=80&.v=1693544686346"
+    ],
+    "code": "752101",
+    "color": "Olive Alpine",
+    "specs": [
+      "Faster on-device Siri with health data access",
+      "Precision Finding for iPhone",
+      "Always-On Retina display up to 2000 nits",
+      "Faster on-device Siri with health data access",
+      "Cycle Tracking with retrospective ovulation estimates",
+      "Fall Detection and Crash Detection",
+      "Available cellular connectivity",
+      "Precision dual‑frequency GPS",
+      "Supports Family Setup (GPS + Cellular models)"
+    ]
+  },
+  {
+    "name": "Apple Watch Ultra 2 49mm",
+    "category": "Watch",
+    "price": 840,
+    "images": [
+      "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MT613ref_VW_34FR+watch-49-titanium-ultra2_VW_34FR+watch-face-49-trail-ultra2_VW_34FR?wid=5120&hei=3280&bgc=fafafa&trim=1&fmt=p-jpg&qlt=80&.v=bFRTNGxrZGszUDBySklabjhmakdiUkZPYUtzeTRQVVJ5RG0wcnpadi96L1VYSXRUN1VQK3Nhb1hTK1VFYms2a0IzMDBvaSthcUJDc2lUMklaVFdPN1lxMHdmWUhUbHhWZXRCWndOTDlaS25MeUw0TnFKYTE4Wjc2SmgwSHVjMlliOHl5dURnZFVaMHRjbWhkYVFBVUl6dzg4cVc5U0dOMmdVeFY1aDl2U2dFMGNEU1JIYXljb0dUV1hSdjZEUmJQRlRnMEwxeUxkbkc1bzljcGxmSzdVQT09",
+      "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MT613ref_VW_PF+watch-49-titanium-ultra2_VW_PF+watch-face-49-trail-ultra2_VW_PF?wid=5120&hei=3280&bgc=fafafa&trim=1&fmt=p-jpg&qlt=80&.v=VkFydTlKZkdCcXp5OTdIU2hQdmZBRXpxK205ZmNxblRBQ1ZWYUZSQXUxWE1VTXpndzUraW9tVnlvclF1eU1hT29XazR2QzhkeVdRRGZtd1F3akdQd0ErdzRZVzVFc2RoMzlCYmxUd29STCt0UGh0V0JoNUpsNStFRE1ScCtjd0dtMzV5T3hFYXZpaCt5SDlaT1B1TzZ4dGUvaWpSWDJVdjZQVm95eWI3MnpPTkcrSysrMERoMUNOZWJIdUtESnF6cFJlUmZXVitZcmJ1MDl5MHM3a29EQT09",
+      "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MT613ref?wid=5120&hei=3280&bgc=fafafa&trim=1&fmt=p-jpg&qlt=80&.v=N1RsMFc4R3MwbGRQSm1UVFBJVTdTcnlqOGJhNEhuamM3dDluVGJ6bnZCcUNUZS9wMUc1eUlUVnRFYzlDc2lGTnJUTUgxNk5DUW5waUJSenV3d1lDMVpyZzc0citiRHluQ3ZJMnExME5BVTQ9",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ultra-band-unselect-gallery-1-202309?wid=5120&hei=3280&fmt=p-jpg&qlt=80&.v=1693544686346"
+    ],
+    "code": "752101",
+    "color": "Blue/Black Trail Loop",
+    "specs": [
+      "Faster on-device Siri with health data access",
+      "Precision Finding for iPhone",
+      "Always-On Retina display up to 2000 nits",
+      "Faster on-device Siri with health data access",
+      "Cycle Tracking with retrospective ovulation estimates",
+      "Fall Detection and Crash Detection",
+      "Available cellular connectivity",
+      "Precision dual‑frequency GPS",
+      "Supports Family Setup (GPS + Cellular models)"
+    ]
+  },
+  {
+    "name": "Apple Watch SE 44mm",
+    "category": "Watch",
+    "price": 370,
+    "images": [
+      "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MT593ref_VW_34FR+watch-case-44-aluminum-midnight-cell-se_VW_34FR+watch-face-44-aluminum-midnight-se_VW_34FR?wid=5120&hei=3280&bgc=fafafa&trim=1&fmt=p-jpg&qlt=80&.v=bTdpejUvZEt5Ty9YYUR5VVJVUzVoeWhSbVIzRFJTYlp1MEk4OWNDaTcvNTlEbzMrd1Z5SUpEd0hiT0ZLRlZGNHVDTzRRaC84T1VMbXJRN05SRldIelBRWnNWZWtLcTZCYVRER3FsWWowaTk5RG8zK3dWeUlKRHdIYk9GS0ZWRjR4cVNUNDJadDNVSmRncE9SalAvZ24wUVN3R3VxZWhYYXgwOHljYmZFMXBocmMyRTN3NCt6QkoxaUdRb0FBay9VYktGTHdENW9lYUFnak5pcy9ReEdDYitVd1NTQTM3UmZlcFMyUUhtajBOOUFTbk5vY3l1VDJCbGQ3QjJZZUd1bQ",
+      "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MT593ref_VW_PF+watch-case-44-aluminum-midnight-cell-se_VW_PF+watch-face-44-aluminum-midnight-se_VW_PF?wid=5120&hei=3280&bgc=fafafa&trim=1&fmt=p-jpg&qlt=80&.v=eDFWNzk0SHhUbmI1ZFdoQ2VWdWlGV2dubGxNYk1RSDZNQVdMZTJKdDdwNVpjRzhoU1U2SFhrVUxaaTlNcXE3c1hZWkh2OUUyOXBpb0RkYTRLZ2cxbnhpWE5LNlBMYStqTjdWem0zakpaYVgrZWJ1dDBQMmRIcG56d2hydStkNFgxeEI1Q1gyYTFEdjFsR05pRUVKUTZNQjZaaVFBVTV1TTNBZXIyTDVibzdTT0lodkdNeWd3SHAzZlUzNms5S2kxU2xDa2ttY2dzWENkb0dDVHdHMXNJNytsMS9wYkJqMEpaUis5MmhXUnhETT0",
+      "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MT593ref?wid=5120&hei=3280&bgc=fafafa&trim=1&fmt=p-jpg&qlt=80&.v=YzlZL3FCUk1aUzNnZUd6bWhrL3RETHlqOGJhNEhuamM3dDluVGJ6bnZCcUNUZS9wMUc1eUlUVnRFYzlDc2lGTnJUTUgxNk5DUW5waUJSenV3d1lDMVVuK2xsOERlT29vVjFwWWNPQWp6c3M9",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/se-case-unselect-gallery-1-202309?wid=5120&hei=3280&fmt=p-jpg&qlt=80&.v=1692943841023"
+    ],
+    "code": "904501",
+    "color": "Midnight Sport Loop",
+    "specs": [
+      "Faster on-device Siri with health data access",
+      "Precision Finding for iPhone",
+      "Always-On Retina display up to 2000 nits",
+      "Faster on-device Siri with health data access",
+      "Cycle Tracking with retrospective ovulation estimates",
+      "Fall Detection and Crash Detection",
+      "Available cellular connectivity",
+      "Precision dual‑frequency GPS",
+      "Supports Family Setup (GPS + Cellular models)"
+    ]
+  },
+  {
+    "name": "Apple Watch SE 44mm",
+    "category": "Watch",
+    "price": 370,
+    "images": [
+      "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MTL43_VW_34FR+watch-case-44-aluminum-midnight-cell-se_VW_34FR+watch-face-44-aluminum-brightgreen-nike_VW_34FR_WF_CO?wid=5120&hei=3280&bgc=fafafa&trim=1&fmt=p-jpg&qlt=80&.v=SVEvRFV3UFF6b1p0SFVtc0dlQVJ0aGJnWjJGdmhDSm9jUGNSdkZQN3V5R3V3bGpEUmhGaG81R1pTZ0o0UnN2cmJuM1NDRXJhdWJKYi9FODNWczRJRHRsV2ppaWc1M0VmWEJqQ0VQNnpIL3UzM1V2ek5GWkQrS2V1bnVoeDduZ3o1Y3ZaRWlQSC9WTEpCVjlRaW41V2xVYWJtYU92VktMWGM0SEhGY1pUQ2tVejJLUFVtTzgwWURlTlFQQ2dlb1VpaCs4UVV5TkpOb3R0SnE2K0FBUHR6dmFlTEFNaXZtd2VrWFBncGExNlNBSzVYN0NyemtpVy9mVHlBYlFlaFpuMw",
+      "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MTL43_VW_PF+watch-case-44-aluminum-midnight-cell-se_VW_PF+watch-face-44-aluminum-brightgreen-nike_VW_PF_WF_CO?wid=5120&hei=3280&bgc=fafafa&trim=1&fmt=p-jpg&qlt=80&.v=QXVjL2dPaDVZWkl2YTNWN1FMckpxN004QmlzcXcyaXhBNUVXTDVJUG1GK0pWUXBubXVGOW1Xcm1yeGlxRUVNcStOb3kzWlNxaDg2dzNidXFTbEd2NjRDNzYrNGRIMHRPSWhwWHUwTUg4SC80M24rejVlKy9wcGdKdTVnQnBTdWd5cWFpdDI1QlR0RXVQT1RlaGpHUEg1RnZGUUdUeGtYN2gySi9ZaWRpZitLckJnajVCaGRzU0pBREM1Q082Uk51NXVkZ2t0VWxQK2o2M01obVdMRmRjbWJpZmtqck1pRUhBUi9oOVZEVXNhWlFrMUQ1bk1JRG5RbkpiUlBLZHA0NQ",
+      "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MTL43?wid=5120&hei=3280&bgc=fafafa&trim=1&fmt=p-jpg&qlt=80&.v=U3BoYVErdEZ6V09SamxjcElDMlJYTUI2WmlRQVU1dU0zQWVyMkw1Ym83U09JaHZHTXlnd0hwM2ZVMzZrOUtpMVNsQ2trbWNnc1hDZG9HQ1R3RzFzSXhoakxkL0hVM05lNVpJdUlqVmFrSHc9",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/se-case-unselect-gallery-1-202309?wid=5120&hei=3280&fmt=p-jpg&qlt=80&.v=1692943841023"
+    ],
+    "code": "901001",
+    "color": "Green/Blue Nike Sport Loop",
+    "specs": [
+      "Faster on-device Siri with health data access",
+      "Precision Finding for iPhone",
+      "Always-On Retina display up to 2000 nits",
+      "Faster on-device Siri with health data access",
+      "Cycle Tracking with retrospective ovulation estimates",
+      "Fall Detection and Crash Detection",
+      "Available cellular connectivity",
+      "Precision dual‑frequency GPS",
+      "Supports Family Setup (GPS + Cellular models)"
+    ]
+  },
+  {
+    "name": "Watch Hermès Series 9 45mm",
+    "category": "Watch",
+    "price": 1460,
+    "images": [
+      "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MTHH3_VW_34FR+watch-case-45-stainless-spaceblack-cell-hermes9s_VW_34FR+watch-face-45-hermes9s-luckyhorse-capucine_VW_34FR_WF_CO?wid=5120&hei=3280&bgc=fafafa&trim=1&fmt=p-jpg&qlt=80&.v=L0REbElEMlB6cm4yV0pOTFZZbWdtbUtvSkhsRytqVWE5dUpMRCtqb2E5MVFXOTZSRW1XNTZNSUpZWDM1b1ZPWjRveGxVSXFaa1FKazNqWXVpNFhiZ2d1Z0RaeFB5LzRxZEliRVE2WkswOW5KZ0RyV3k0cUs1aFNGNTZ2b2d2VkdiaHhNU0ViRCtPU0lUbVVncjhrdlJ4dHBid0UwQndmKzFJWXNUbW9FT1d3UjdnRXByS0twekM1VGNldzRGWWpqWFVRVks4SlRTZlY4dlJtNUtRYVRFYWkyKzdHL214WG5RdXNpeXFJQTVOTmkvWkVLc1d5SWlFNWZ6eE4weEpldS9FK1RmS1EvcHhaVzlMK1pNMkxJd2c9PQ",
+      "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MTHH3_VW_PF+watch-case-45-stainless-spaceblack-cell-hermes9s_VW_PF+watch-face-45-hermes9s-luckyhorse-capucine_VW_PF_WF_CO?wid=5120&hei=3280&bgc=fafafa&trim=1&fmt=p-jpg&qlt=80&.v=YUZTeXNLeDh0NnFQb25zZlFuL1FET2Z1a2VMSlJiKy9SQkRoT0lFQ1cxL29XbUdvSm4yOVdQTzFUNjZLUFB6WXBJZnhwRnRBRzBsM3JjZEpyQkNQUXc5cGhZSGhrMkJGMkZWM0QySkovbmxzcVl4eHBDcDhPYnZEWURzWmozd3YrYUgvQzVvdStUSFk0ZGhVWnhySUZWWENwQis1K0p1NFgzK2VkMEo2alltUnIyOTFGSThsa1hxTzhGcGhyU2RUS2R0U1RZc3B4akhlTERQTm02ZGdwcllzeDhmSFRURzRsU0UvWXcwcll3Vm91OUljRlpGc1picDAwSEJmcUI1aQ",
+      "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MTHH3?wid=5120&hei=3280&bgc=fafafa&trim=1&fmt=p-jpg&qlt=80&.v=ejRHUXMrdDRiQmlGOVJkSm9mcWxjY0I2WmlRQVU1dU0zQWVyMkw1Ym83U09JaHZHTXlnd0hwM2ZVMzZrOUtpMVNsQ2trbWNnc1hDZG9HQ1R3RzFzSTNSR29vTmorSWpNdEZ6N2FmTHFLQnc9",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/s9-hermes-case-unselect-gallery-1-202309?wid=5120&hei=3280&fmt=p-jpg&qlt=80&.v=1692832487411"
+    ],
+    "code": "124836",
+    "color": "Noir/Gold Twill Jump",
+    "specs": [
+      "Faster on-device Siri with health data access",
+      "Precision Finding for iPhone",
+      "Always-On Retina display up to 2000 nits",
+      "Faster on-device Siri with health data access",
+      "Cycle Tracking with retrospective ovulation estimates",
+      "Fall Detection and Crash Detection",
+      "Available cellular connectivity",
+      "Precision dual‑frequency GPS",
+      "Supports Family Setup (GPS + Cellular models)"
+    ]
+  },
+  {
+    "name": "Watch Hermès Series 9 41mm",
+    "category": "Watch",
+    "price": 1330,
+    "images": [
+      "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MTHV3_VW_34FR+watch-case-41-stainless-spaceblack-cell-hermes9s_VW_34FR+watch-face-41-hermes9s-complex-white_VW_34FR_WF_CO?wid=5120&hei=3280&bgc=fafafa&trim=1&fmt=p-jpg&qlt=80&.v=alBZTGtmbVdzYi9lUjhuRHRsYzBwdDlWL3ZkbjVDbFV2QXF2czAxWWJXWlFXOTZSRW1XNTZNSUpZWDM1b1ZPWjRveGxVSXFaa1FKazNqWXVpNFhiZ2d1Z0RaeFB5LzRxZEliRVE2WkswOWxCL0tsdTFGL0d3YmN4YnpaYlRKRkpOQWhON00waXF0RC9JakZzSXMvYkhERUMzQ2o3d0UyekM1dng1bkJxdThLUnIyOTFGSThsa1hxTzhGcGhyU2RUS2R0U1RZc3B4akhlTERQTm02ZGdwcllzeDhmSFRURzRsU0UvWXcwcll3Vm91OUljRlpGc1picDAwSEJmcUI1aQ",
+      "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MTHV3_VW_PF+watch-case-41-stainless-spaceblack-cell-hermes9s_VW_PF+watch-face-41-hermes9s-complex-white_VW_PF_WF_CO?wid=5120&hei=3280&bgc=fafafa&trim=1&fmt=p-jpg&qlt=80&.v=RkpkK2pJVGxsWmp2RGsrakF6eFNMWjBmUE5ZVzJOT3NiUExGamRDMFpxUG9XbUdvSm4yOVdQTzFUNjZLUFB6WXBJZnhwRnRBRzBsM3JjZEpyQkNQUStpSDh2SXNmeTZ1OUZYQU1aK2ZuVE92U2xGY1JxMnovVFhSZTc5c3pONWlxOTlKczBrTFNUT0IxU083SU9QMUVrYWJtYU92VktMWGM0SEhGY1pUQ2tVejJLUFVtTzgwWURlTlFQQ2dlb1VpaCs4UVV5TkpOb3R0SnE2K0FBUHR6dmFlTEFNaXZtd2VrWFBncGExNlNBTHBjRXkzdU5OMUtJaWFMVGFVQmhYUw",
+      "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MTHV3?wid=5120&hei=3280&bgc=fafafa&trim=1&fmt=p-jpg&qlt=80&.v=QjRqdzkvQkUyK3NOQk5ZTTg1ZFlQc0I2WmlRQVU1dU0zQWVyMkw1Ym83U09JaHZHTXlnd0hwM2ZVMzZrOUtpMVNsQ2trbWNnc1hDZG9HQ1R3RzFzSTh6U20zbHArN0JCaWdQWUNkdGJUbTQ9",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/s9-hermes-case-unselect-gallery-1-202309?wid=5120&hei=3280&fmt=p-jpg&qlt=80&.v=1692832487411"
+    ],
+    "code": "223546",
+    "color": "Orange Kilim",
+    "specs": [
+      "Faster on-device Siri with health data access",
+      "Precision Finding for iPhone",
+      "Always-On Retina display up to 2000 nits",
+      "Faster on-device Siri with health data access",
+      "Cycle Tracking with retrospective ovulation estimates",
+      "Fall Detection and Crash Detection",
+      "Available cellular connectivity",
+      "Precision dual‑frequency GPS",
+      "Supports Family Setup (GPS + Cellular models)"
+    ]
+  },
+  {
+    "name": "AirPods Pro (2nd gen.)",
+    "category": "AirPods",
+    "price": 280,
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MTJV3?wid=2000&hei=2000&fmt=jpeg&qlt=90&.v=1694014871985",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MTJV3_AV1?wid=2000&hei=2000&fmt=jpeg&qlt=90&.v=1694014867061",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MTJV3_AV2?wid=2000&hei=2000&fmt=jpeg&qlt=90&.v=1694014868810",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MTJV3_AV4?wid=2000&hei=2000&fmt=jpeg&qlt=90&.v=1694014874426"
+    ],
+    "code": "184345",
+    "color": "White",
+    "specs": [
+      "Active Noise Cancellation and Transparency mode",
+      "Personalized Spatial Audio with dynamic head tracking",
+      "Dust, sweat, and water resistant AirPods and charging case",
+      "MagSafe Charging Case (USB‑C) with speaker and lanyard loop",
+      "Up to 6 hours of listening time with a single charge"
+    ]
+  },
+  {
+    "name": "AirPods Pro (3nd gen.)",
+    "category": "AirPods",
+    "price": 210,
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MME73?wid=2000&hei=2000&fmt=jpeg&qlt=90&.v=1632861342000",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MME73_AV1?wid=2000&hei=2000&fmt=jpeg&qlt=90&.v=1632861333000",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MME73_AV2?wid=2000&hei=2000&fmt=jpeg&qlt=90&.v=1632861338000",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MME73_AV3?wid=2000&hei=2000&fmt=jpeg&qlt=90&.v=1632861336000"
+    ],
+    "code": "947429",
+    "color": "White",
+    "specs": [
+      "Active Noise Cancellation and Transparency mode",
+      "Personalized Spatial Audio with dynamic head tracking",
+      "Dust, sweat, and water resistant AirPods and charging case",
+      "MagSafe Charging Case (USB‑C) with speaker and lanyard loop",
+      "Up to 6 hours of listening time with a single charge"
+    ]
+  },
+  {
+    "name": "AirPods Max",
+    "category": "AirPods",
+    "price": 610,
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/airpods-max-select-silver-202011?wid=940&hei=1112&fmt=png-alpha&.v=1604021221000",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/airpods-max-select-spacegray-202011?wid=940&hei=1112&fmt=png-alpha&.v=1604709508000",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/airpods-max-select-skyblue-202011?wid=940&hei=1112&fmt=png-alpha&.v=1604022365000",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/airpods-max-select-pink-202011?wid=940&hei=1112&fmt=png-alpha&.v=1604022365000"
+    ],
+    "code": "693582",
+    "color": "Silver",
+    "specs": [
+      "Active Noise Cancellation and Transparency mode",
+      "Personalized Spatial Audio with dynamic head tracking",
+      "Dust, sweat, and water resistant AirPods and charging case",
+      "MagSafe Charging Case (USB‑C) with speaker and lanyard loop",
+      "Up to 20 hours of listening time with a single charge"
+    ]
+  }
+]
